@@ -184,6 +184,4 @@ class SqlMonitorServiceProvider extends ServiceProvider
         return str_replace(base_path(), '', $path);
     }
 
-
-
 }
